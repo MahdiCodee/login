@@ -7,8 +7,3 @@ HTML
 CSS
 
 JavaScript
-
-
-.mp3
-
-.jpg
